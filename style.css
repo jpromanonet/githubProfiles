@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #2a2a72;
+  background-color: #60cd55;
   color: #fff;
   font-family: 'Poppins', sans-serif;
   display: flex;
@@ -25,7 +25,7 @@ body {
 .user-form input {
   width: 100%;
   display: block;
-  background-color: #60cd55;
+  background-color: #000;
   border: none;
   border-radius: 10px;
   color: #fff;
@@ -58,7 +58,7 @@ body {
 
 .avatar {
   border-radius: 50%;
-  border: 10px solid #2a2a72;
+  border: 10px solid #60cd55;
   height: 150px;
   width: 150px;
 }
@@ -93,7 +93,7 @@ body {
 .repo {
   text-decoration: none;
   color: #fff;
-  background-color: #212a72;
+  background-color: #60cd55;
   font-size: 0.7rem;
   padding: 0.25rem 0.5rem;
   margin-right: 0.5rem;
